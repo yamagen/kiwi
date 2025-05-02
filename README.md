@@ -16,3 +16,23 @@ This tool allows you to create indexed views of keywords in context, useful for 
 ```bash
 kiwi input.txt
 ```
+
+Output will show keyword-in-context format, aligned and searchable.
+
+## Installation
+
+To build:
+
+```bash
+make
+```
+
+Or just use the compiled binary:
+
+```bash
+./kiwi input.txt
+```
+
+## License
+
+MIT License
